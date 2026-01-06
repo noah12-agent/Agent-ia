@@ -1,0 +1,33 @@
+{
+  "name": "Le Jardin des Saveurs",
+  "address": "12 rue des Fleurs, 75002 Paris",
+  "hours": {
+    "monday": "12:00-14:30, 19:00-22:30",
+    "tuesday": "12:00-14:30, 19:00-22:30",
+    "wednesday": "12:00-14:30, 19:00-22:30",
+    "thursday": "12:00-14:30, 19:00-22:30",
+    "friday": "12:00-14:30, 19:00-23:00",
+    "saturday": "19:00-23:00",
+    "sunday": "Fermé"
+  },
+  "phone": "+33 1 23 45 67 89",
+  "location_link": "https://maps.example.com/lejardin",
+  "menu": [
+    { "item": "Soupe de saison", "price": "8€" },
+    { "item": "Salade du jardin", "price": "12€" },
+    { "item": "Risotto aux champignons", "price": "18€" },
+    { "item": "Poulet rôti fermier", "price": "22€" },
+    { "item": "Poisson du marché", "price": "24€" },
+    { "item": "Dessert du chef", "price": "9€" }
+  ],
+  "policies": {
+    "late": "Nous gardons votre table 15 minutes en cas de retard.",
+    "cancellation": "Merci de prévenir au moins 2 heures à l'avance pour annuler."
+  },
+  "faq": {
+    "delivery": "Nous ne proposons pas de livraison pour le moment.",
+    "payment": "Nous acceptons carte bancaire, espèces et tickets restaurant.",
+    "allergens": "Merci de signaler vos allergies, nous adaptons nos plats."
+  },
+  "fallback_human_message": "Si vous le souhaitez, je peux vous mettre en relation avec le restaurant au +33 1 23 45 67 89."
+}

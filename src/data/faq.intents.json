@@ -1,0 +1,26 @@
+{
+  "menu": {
+    "keywords": ["menu", "carte", "plats", "desserts"],
+    "responseKey": "menu"
+  },
+  "hours": {
+    "keywords": ["horaire", "horaires", "ouvert", "fermé"],
+    "responseKey": "hours"
+  },
+  "address": {
+    "keywords": ["adresse", "où", "ou", "localisation", "map"],
+    "responseKey": "address"
+  },
+  "delivery": {
+    "keywords": ["livraison", "livrer", "delivery"],
+    "responseKey": "delivery"
+  },
+  "payment": {
+    "keywords": ["paiement", "payer", "carte", "cb", "cash"],
+    "responseKey": "payment"
+  },
+  "allergens": {
+    "keywords": ["allergie", "allergènes", "gluten", "lactose"],
+    "responseKey": "allergens"
+  }
+}
